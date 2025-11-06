@@ -2,7 +2,7 @@
 # Homepage configuration
 # See https://fontawesome.com/search for icons options
 
-title: "Demo dashboard"
+title: "SUPERCAT dashboard"
 subtitle: "Homer"
 logo: "logo.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
@@ -47,11 +47,11 @@ services:
   - name: "Try Homer"
     icon: "fa-solid fa-arrow-right"
     items:
-      - name: "Get started"
+      - name: "IT tools"
         icon: "fa-solid fa-download"
-        subtitle: "Start using Homer in a few minutes"
-        tag: "setup"
-        url: "https://github.com/bastienwirtz/homer?tab=readme-ov-file#get-started"
+        subtitle: "Useful tools for developer and people working in IT"
+        tag: "tools"
+        url: "https://tools.ttran.work"
       - name: "Configuration"
         icon: "fa-solid fa-sliders"
         subtitle: "Configuration options documentation"
